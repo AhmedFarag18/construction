@@ -364,7 +364,7 @@ section hero or header
 .ltr-effect.active::after,
 .ltr-effect:hover:after {
     width: 100%;
-    box-shadow: 0 10px 20px 0 rgb(0 0 0 / 20%);
+    box-shadow: 0 0px 10px 0 rgb(0 0 0 / 20%);
 }
 
 .services-content img {
